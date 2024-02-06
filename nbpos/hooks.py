@@ -1,12 +1,12 @@
 from . import __version__ as app_version
 
 app_name = "nbpos"
-app_title = "nbpos"
-app_publisher = "swapnil"
-app_description = "nbpos"
+app_title = "GETPOS"
+app_publisher = "Nestorbird"
+app_description = "GET POS"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "swapnil.pawar"
+app_email = "info@nestorbird.com"
 app_license = "MIT"
 
 # Includes in <head>
